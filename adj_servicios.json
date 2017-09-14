@@ -5,9 +5,9 @@
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Name" }
+		{ "type": "id", "index": 0, "name": "Name" },
 		{ "type": "float", "index": 24, "name": "Bid/VR" },
-		{ "type": "float", "index": 23, "name": "Bid" }
+		{ "type": "float", "index": 23, "name": "Bid" },
 		{ "type": "integer", "index": 26, "name": "Bid" }
 	],
 	"sets": [
