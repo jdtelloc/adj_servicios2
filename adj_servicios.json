@@ -1,13 +1,16 @@
 {
-	"file": "https://raw.githubusercontent.com/jdtelloc/adj_servicios2/master/test_csv.csv",
+	"file": "https://raw.githubusercontent.com/jdtelloc/adj_servicios2/master/adj_servicios.csv",
 	"name": "Postores adjudicados (Servicios)",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Name" }
+		{ "type": "id", "index": 0, "name": "Name" },
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 3 }
+		{ "format": "binary", "start": 1, "end": 22 },
+		{ "type": "float", "index": 24, "name": "Bid/VR" },
+		{ "type": "float", "index": 23, "name": "Bid" },
+		{ "type": "integer", "index": 26, "name": "Bid" }
 	]
 }
