@@ -1,6 +1,6 @@
 
 {
-	"file": "https://raw.githubusercontent.com/jdtelloc/adj_servicios2/master/upset_servicios_perdedores.csv",
+	"file": "https://raw.githubusercontent.com/jdtelloc/adj_servicios2/master/upset_servicios_perd_v2.csv",
 	"name": "Postores adjudicados (Servicios)",
 	"header": 0,
 	"separator": ";",
@@ -10,6 +10,6 @@
 
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 52 }
+		{ "format": "binary", "start": 1, "end": 50 }
 	]
 }
