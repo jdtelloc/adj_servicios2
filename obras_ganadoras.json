@@ -1,0 +1,15 @@
+
+{
+	"file": "https://raw.githubusercontent.com/jdtelloc/adj_servicios2/master/obras_ganadoras.csv",
+	"name": "Postores ganadores (Obras)",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 24 }
+	]
+}
