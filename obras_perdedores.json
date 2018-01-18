@@ -1,7 +1,7 @@
 
 {
 	"file": "https://raw.githubusercontent.com/jdtelloc/adj_servicios2/master/obras_perdedores.csv",
-	"name": "Postores ganadores (Perdedores)",
+	"name": "Postores (Perdedores)",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
